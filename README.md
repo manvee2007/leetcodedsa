@@ -6,6 +6,7 @@ this repo includes all question i am practiced on leet code
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/manvee2007/leetcodedsa/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/manvee2007/leetcodedsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/manvee2007/leetcodedsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/manvee2007/leetcodedsa/tree/main/0056-merge-intervals/) | Medium |
@@ -48,5 +49,6 @@ this repo includes all question i am practiced on leet code
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/manvee2007/leetcodedsa/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/manvee2007/leetcodedsa/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
