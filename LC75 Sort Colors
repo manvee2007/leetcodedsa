@@ -1,0 +1,30 @@
+void sortColors(int* nums, int numsSize) {
+    int low = 0;
+    int mid = 0;
+    int high = numsSize - 1;
+
+    while (mid <= high) {
+
+        if (nums[mid] == 0) {
+            // Put 0 at the beginning
+            int temp = nums[low];
+            nums[low] = nums[mid];
+            nums[mid] = temp;
+
+            low++;
+            mid++;
+        }
+        else if (nums[mid] == 1) {
+            // 1 is already in the correct middle region
+            mid++;
+        }
+        else {
+            // Put 2 at the end
+            int temp = nums[mid];
+            nums[mid] = nums[high];
+            nums[high] = temp;
+
+            high--;
+        }
+    }
+}
