@@ -15,6 +15,7 @@ this repo includes all question i am practiced on leet code
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manvee2007/leetcodedsa/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/manvee2007/leetcodedsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/manvee2007/leetcodedsa/tree/main/0704-binary-search/) | Easy |
+| [0912-sort-an-array](https://github.com/manvee2007/leetcodedsa/tree/main/0912-sort-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/manvee2007/leetcodedsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ this repo includes all question i am practiced on leet code
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/manvee2007/leetcodedsa/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/manvee2007/leetcodedsa/tree/main/0088-merge-sorted-array/) | Easy |
+| [0912-sort-an-array](https://github.com/manvee2007/leetcodedsa/tree/main/0912-sort-an-array/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,4 +60,28 @@ this repo includes all question i am practiced on leet code
 | [0035-search-insert-position](https://github.com/manvee2007/leetcodedsa/tree/main/0035-search-insert-position/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manvee2007/leetcodedsa/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0704-binary-search](https://github.com/manvee2007/leetcodedsa/tree/main/0704-binary-search/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/manvee2007/leetcodedsa/tree/main/0912-sort-an-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/manvee2007/leetcodedsa/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/manvee2007/leetcodedsa/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/manvee2007/leetcodedsa/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/manvee2007/leetcodedsa/tree/main/0912-sort-an-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/manvee2007/leetcodedsa/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
