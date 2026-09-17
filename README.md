@@ -11,6 +11,7 @@ this repo includes all question i am practiced on leet code
 | [0041-first-missing-positive](https://github.com/manvee2007/leetcodedsa/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/manvee2007/leetcodedsa/tree/main/0042-trapping-rain-water/) | Hard |
 | [0056-merge-intervals](https://github.com/manvee2007/leetcodedsa/tree/main/0056-merge-intervals/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manvee2007/leetcodedsa/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/manvee2007/leetcodedsa/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/manvee2007/leetcodedsa/tree/main/0704-binary-search/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/manvee2007/leetcodedsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -52,5 +53,6 @@ this repo includes all question i am practiced on leet code
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/manvee2007/leetcodedsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/manvee2007/leetcodedsa/tree/main/0035-search-insert-position/) | Easy |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manvee2007/leetcodedsa/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0704-binary-search](https://github.com/manvee2007/leetcodedsa/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
