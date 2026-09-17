@@ -15,6 +15,7 @@ this repo includes all question i am practiced on leet code
 | [0088-merge-sorted-array](https://github.com/manvee2007/leetcodedsa/tree/main/0088-merge-sorted-array/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manvee2007/leetcodedsa/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/manvee2007/leetcodedsa/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0493-reverse-pairs](https://github.com/manvee2007/leetcodedsa/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/manvee2007/leetcodedsa/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/manvee2007/leetcodedsa/tree/main/0912-sort-an-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/manvee2007/leetcodedsa/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -63,10 +64,12 @@ this repo includes all question i am practiced on leet code
 | [0033-search-in-rotated-sorted-array](https://github.com/manvee2007/leetcodedsa/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/manvee2007/leetcodedsa/tree/main/0035-search-insert-position/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/manvee2007/leetcodedsa/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0493-reverse-pairs](https://github.com/manvee2007/leetcodedsa/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/manvee2007/leetcodedsa/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/manvee2007/leetcodedsa/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/manvee2007/leetcodedsa/tree/main/0912-sort-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -75,6 +78,7 @@ this repo includes all question i am practiced on leet code
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/manvee2007/leetcodedsa/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/manvee2007/leetcodedsa/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -92,4 +96,20 @@ this repo includes all question i am practiced on leet code
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/manvee2007/leetcodedsa/tree/main/0075-sort-colors/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/manvee2007/leetcodedsa/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/manvee2007/leetcodedsa/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/manvee2007/leetcodedsa/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/manvee2007/leetcodedsa/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
