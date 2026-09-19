@@ -120,4 +120,12 @@ this repo includes all question i am practiced on leet code
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/manvee2007/leetcodedsa/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/manvee2007/leetcodedsa/tree/main/0493-reverse-pairs/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/manvee2007/leetcodedsa/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/manvee2007/leetcodedsa/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
